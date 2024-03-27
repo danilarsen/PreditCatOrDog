@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PreditCatOrDog</string>
+    <string name="classified_as" translatable="false">Classified as:</string>
+    <string name="take_picture" translatable="false">Take Picture</string>
+</resources>
